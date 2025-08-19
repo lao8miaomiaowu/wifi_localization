@@ -19,7 +19,7 @@
 ### 1. 克隆仓库
 
 ```bash
-git clone https://github.com/<你的用户名>/wifi_localization_cpp.git
+git clone https://github.com/lao8miaomiaowu/wifi_localization_cpp.git
 cd wifi_localization_cpp
 ```
 
