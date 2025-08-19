@@ -1,0 +1,2 @@
+# wifi_localization
+通过ROS2实现基于位置指纹的WiFi定位
