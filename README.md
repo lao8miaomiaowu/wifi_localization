@@ -93,12 +93,6 @@ wifi_localization_cpp/
 欢迎提交 **Issue** 或 **Pull Request**！  
 如果你有新的模型、更多 SSID 或改进建议，请一起完善这个项目。
 
----
 
-## 📄 许可证
-
-MIT © 2024 <你的名字>
-
----
 
 **如有疑问，欢迎在 GitHub Issues 中讨论！**
